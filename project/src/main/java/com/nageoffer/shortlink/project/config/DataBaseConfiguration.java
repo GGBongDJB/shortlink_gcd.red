@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 public class DataBaseConfiguration {
 
     /**
-     * 分页插件
+     * MySQL分页插件
      */
     @Bean
     public MybatisPlusInterceptor mybatisPlusInterceptor() {

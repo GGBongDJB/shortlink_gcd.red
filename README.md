@@ -29,7 +29,7 @@
 6. **访问系统**：在浏览器中输入启动后的应用地址，开始使用系统。
 
 ## 安装和部署
-1. **克隆代码**：`git clone https://github.com/yourusername/saas-short-url-system.git`
+1. **克隆代码**：`git clone https://github.com/GGBongDJB/shortlink_gcd.red.git`
 2. **安装依赖**：`mvn clean install`
 3. **配置文件**：根据需要修改`application.yaml`文件。
 4. **启动服务**：`mvn spring-boot:run` 或者打包后通过`java -jar`命令启动。
